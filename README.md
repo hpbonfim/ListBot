@@ -221,13 +221,20 @@ To connect on:
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/RazCrimson3">
+            <img src="https://avatars2.githubusercontent.com/u/52282402?v=4" width="100;" alt="RazCrimson3"/>
+            <br />
+            <sub><b>RazCrimson3</b></sub>
+        </a>
+    </td></tr>
+<tr>
+    <td align="center">
         <a href="https://github.com/simonardejr">
             <img src="https://avatars0.githubusercontent.com/u/3685303?v=4" width="100;" alt="simonardejr"/>
             <br />
             <sub><b>Simonarde Lima</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/ValentiMS">
             <img src="https://avatars0.githubusercontent.com/u/30903958?v=4" width="100;" alt="ValentiMS"/>
@@ -243,6 +250,13 @@ To connect on:
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/hpbonfim">
+            <img src="https://avatars3.githubusercontent.com/u/40275173?v=4" width="100;" alt="hpbonfim"/>
+            <br />
+            <sub><b>Henrique Paulo Bonfim</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/Aditya-ds-1806">
             <img src="https://avatars1.githubusercontent.com/u/46485997?v=4" width="100;" alt="Aditya-ds-1806"/>
             <br />
@@ -255,7 +269,8 @@ To connect on:
             <br />
             <sub><b>Heyimalaap</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/Carolini28">
             <img src="https://avatars2.githubusercontent.com/u/10856392?v=4" width="100;" alt="Carolini28"/>
@@ -269,20 +284,12 @@ To connect on:
             <br />
             <sub><b>DiC3genes Dauster</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/ggangix">
             <img src="https://avatars0.githubusercontent.com/u/1617136?v=4" width="100;" alt="ggangix"/>
             <br />
             <sub><b>Giuseppe Gangi</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/hpbonfim">
-            <img src="https://avatars3.githubusercontent.com/u/40275173?v=4" width="100;" alt="hpbonfim"/>
-            <br />
-            <sub><b>Henrique Paulo Bonfim</b></sub>
         </a>
     </td>
     <td align="center">
@@ -304,13 +311,6 @@ To connect on:
             <img src="https://avatars2.githubusercontent.com/u/6170626?v=4" width="100;" alt="divn"/>
             <br />
             <sub><b>Juuso Takala</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/thelovekesh">
-            <img src="https://avatars0.githubusercontent.com/u/54371619?v=4" width="100;" alt="thelovekesh"/>
-            <br />
-            <sub><b>Lovekesh Kumar</b></sub>
         </a>
     </td></tr>
 </table>
