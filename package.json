@@ -17,7 +17,7 @@
         "common-tags": "^1.8.0",
         "cross-env": "^7.0.2",
         "discord.js": "^12.3.1",
-        "dotenv": "^8.2.0",
+        "dotenv": "^8.6.0",
         "mongoose": "^5.10.7",
         "request": "^2.88.2",
         "request-promise": "^4.2.6"
