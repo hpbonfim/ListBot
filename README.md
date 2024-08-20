@@ -146,7 +146,7 @@ To connect on:
         <a href="https://github.com/lunatite">
             <img src="https://avatars.githubusercontent.com/u/50427871?v=4" width="100;" alt="lunatite"/>
             <br />
-            <sub><b>lunatite</b></sub>
+            <sub><b>Lunatite</b></sub>
         </a>
     </td>
     <td align="center">
@@ -203,7 +203,7 @@ To connect on:
         <a href="https://github.com/valmyzk">
             <img src="https://avatars.githubusercontent.com/u/30903958?v=4" width="100;" alt="valmyzk"/>
             <br />
-            <sub><b>Valentí Martín</b></sub>
+            <sub><b>ValentC- MartC-n</b></sub>
         </a>
     </td>
     <td align="center">
@@ -267,7 +267,7 @@ To connect on:
         <a href="https://github.com/arthur-merlin">
             <img src="https://avatars.githubusercontent.com/u/72411685?v=4" width="100;" alt="arthur-merlin"/>
             <br />
-            <sub><b>arthur-merlin</b></sub>
+            <sub><b>Arthur-merlin</b></sub>
         </a>
     </td></tr>
 <tr>
